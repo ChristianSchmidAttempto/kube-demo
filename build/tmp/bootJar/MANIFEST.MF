@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Kube-Demo
+Implementation-Version: 1.0-SNAPSHOT
+Start-Class: eu.attempto.kube.demo.KubeDemoApplication
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Version: 2.2.1.RELEASE
+Main-Class: org.springframework.boot.loader.JarLauncher
+
