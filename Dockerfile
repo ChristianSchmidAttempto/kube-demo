@@ -6,6 +6,6 @@ WORKDIR /
 
 ADD build/libs/kube-demo.jar kube-demo.jar
 
-EXPOSE 8080
+EXPOSE 8081
 
 ENTRYPOINT java -jar kube-demo.jar
